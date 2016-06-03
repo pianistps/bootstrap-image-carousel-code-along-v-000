@@ -12,7 +12,6 @@ img, video, audio, iframe, table, form {
 }
 
 /*//// Carousel Styles //Bootstrap is mobile up//*/
-
 #carousel-example-generic .item img {
   height: auto;
 }
