@@ -10,3 +10,25 @@ img, video, audio, iframe, table, form {
 .row {
   margin-bottom: 20px;
 }
+
+/*//// Carousel Styles //Bootstrap is mobile up//*/
+
+#carousel-example-generic .item img {
+  height: auto;
+}
+
+.carousel-caption p {
+  display: none;
+}
+
+@media only screen and (min-width: 768px) {
+  height: auto;
+}
+
+@media only screen and (min-width: 992px) {
+
+}
+
+@media only screen and (min-width: 1200px) {
+
+}
